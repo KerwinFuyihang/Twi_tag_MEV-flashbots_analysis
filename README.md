@@ -18,11 +18,11 @@ Data frame of #flashbots
 
 <img width="1348" alt="Timeseriesforboth" src="https://user-images.githubusercontent.com/109135319/180373202-217f55d2-96a3-4167-9164-055b90ebbcc5.png">
 
-### Word Cloud of tag MEV
+### Word Cloud of tag flashbots
 
 ![wordcloud1](https://user-images.githubusercontent.com/109135319/180373401-625f5e9c-4dac-48dc-b96f-b0b61dddf4b1.png)
 
-### Word Cloud of tag flashbots
+### Word Cloud of tag MEV
 
 ![wordcloud2](https://user-images.githubusercontent.com/109135319/180373532-4a733c1b-d7eb-4e0b-9159-85aa208f194e.png)
 
